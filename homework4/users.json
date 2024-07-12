@@ -1,0 +1,19 @@
+[
+  {
+    "id": 2,
+    "firstName": "Girko",
+    "lastname": "Tatyana",
+    "age": 25,
+    "city": "Moscow"
+  },
+  {
+    "id": 2,
+    "firstName": "Girko",
+    "lastname": "Tatyana",
+    "age": 25
+  },
+  {
+    "id": 3,
+    "age": 25
+  }
+]
